@@ -23,6 +23,7 @@
 
 ### 분석 결과 Web 시각화
 #### 메인페이지
+<img width="50%" height="50%" src='https://user-images.githubusercontent.com/60689555/233045305-eab26b09-d3ad-4f7f-98e5-354eac51683a.png'><br> 
 - 성별에 따른 소비패턴 파이 차트
 - 연령별 소비패턴 바 차트 및 라인 차트
 - 연도별 소비패턴 라인 차트
